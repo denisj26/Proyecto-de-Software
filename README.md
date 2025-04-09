@@ -1,6 +1,6 @@
 # Proyecto-de-Software
 
-TIPO DE PROYECTO DE SOFTWARE: Interfaces de Programación de Aplicaciones (API)
+TIPO DE PROYECTO DE SOFTWARE: Interfaces de Programación de Aplicaciones (API) DENIS
 
 TÍTULO: Despliegue de asistente virtual con Inteligencia Artificial Generativa en AWS
 
